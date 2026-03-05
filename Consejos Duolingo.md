@@ -1,6 +1,6 @@
 # Estrategia Maestra para Duolingo: Ligas y Rendimiento
 
-¡Hola! Ese es un truco clásico en la comunidad de Duolingo. Como alguien que ha visto pasar muchos algoritmos, te confirmo que **tu teoría es mayormente correcta**, pero tiene algunos matices importantes que debes conocer para que no te falle la estrategia.
+¡Hola! Este es un truco clásico en la comunidad de Duolingo. Como alguien que ha pasado mucho tiempo en la aplicación, te confirmo que **la teoría es mayormente correcta**, con algunas consideraciones importantes que debes conocer para que no te falle la estrategia.
 
 Aquí te detallo la verificación de cada punto:
 
@@ -45,3 +45,4 @@ Las 3 misiones diarias son el motor de la eficiencia. No solo te dan gemas, sino
 ---
 
 **Nota importante:** Ten cuidado con abusar de los protectores de racha. Si te quedas sin ellos y olvidas un día, podrías perder una racha larga. Asegúrate siempre de tener gemas para reponerlos.
+
