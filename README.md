@@ -61,5 +61,6 @@ Maximiza tu tiempo con bonos multiplicadores:
 ---
 <img width="350" alt="1771199609" src="https://github.com/user-attachments/assets/b0c71dd5-0481-477d-aac4-8005a3e86346" />
 
-*Proyecto creado por un amante de los idiomas y la optimización de procesos.*
+*Proyecto creado por alquien que ama los idiomas y la optimización de procesos.*
+
 
