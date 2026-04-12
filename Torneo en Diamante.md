@@ -1,4 +1,4 @@
-# 🏆 Guía de Élite: La Gran Final del Torneo de Diamante 💎
+# 🏆 Guía de Élite: Final del Torneo de Diamante 💎
 
 ¡Felicidades! Estar en la **Gran Final** significa que has superado los Cuartos de Final y la Semifinal. Estás en territorio de "jefes finales". Aquí tienes el manual para asegurar tu victoria y reclamar tu lugar en el Olimpo de Duolingo. 🦉🔥
 
