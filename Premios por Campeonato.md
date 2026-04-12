@@ -65,4 +65,4 @@ Para llegar a la meta, deberás escalar estas divisiones en orden:
 * **Racha de fin de semana** ⚡: Muchos usuarios suben su puntaje los domingos antes del cierre. ¡No te confíes!
 
 ---
-¡Buena suerte, estudiante! No dejes que el dúo te persiga... ¡estudia! 🦉🔪 (es broma... o tal vez no). 🤣
+*¡Buena suerte, estudiante! No dejes que el dúo te persiga... ¡estudia! 🦉🔪 (es broma... o tal vez no). 🤣*
